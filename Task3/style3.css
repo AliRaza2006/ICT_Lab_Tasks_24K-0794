@@ -1,0 +1,30 @@
+@font-face {
+    font-family: font;
+    src: url(Longevity\ script.ttf);
+}
+@font-face {
+    font-family: font2;
+    src: url(CHLORINR.TTF);
+}
+body
+{
+    background-color: bisque;
+}
+h1
+{
+    text-align: center;
+    font-family: font;
+    font-size: 60px;
+}
+h2,p,li
+{
+font-family: font2;
+}
+p,li
+{
+    font-size: 20px;
+}
+h2
+{
+font-size: 30px;
+}
