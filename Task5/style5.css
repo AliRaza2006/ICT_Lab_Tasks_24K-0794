@@ -1,0 +1,74 @@
+body
+{
+    background-color: bisque;
+}
+.heading
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.head
+{
+    border-bottom: 2px solid black;
+    border-radius: 3px;
+    margin: 1px;
+}
+.h1
+{
+    margin-top: 4px;
+}
+.intro
+{
+    color: rgb(0, 140, 255);
+    
+}
+table
+{
+    border-collapse: collapse;
+    display: flex;
+    justify-content: center;
+}
+th,td
+{
+    border: 3px solid rgb(0, 126, 243);
+    padding: 4px 8px;
+    width: 2in;
+    text-align: center;
+}
+th
+{
+    background-color: rgb(87, 87, 155);
+    color: white;
+}
+.formula
+{
+    font-size: 1.5em;
+    text-align: center;
+    margin-bottom: 5px 0px;
+    border: 3px solid black;
+    width: 2in;
+    border-radius: 10px;
+    padding: 5px 10px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightblue;
+}
+.image
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.sub
+{
+    background-color: lightblue;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 5px 10px;
+}
